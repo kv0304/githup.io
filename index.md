@@ -19,4 +19,5 @@ Zitate sind nicht überliefert dafür gibt es aber Ehrungen:
 > Der Mondkrater Messier sowie der Asteroid (7359) Messier sind nach ihm benannt.
 > Der Messier-Kanal, eine Meerenge im Süden Chiles zwischen der riesigen Wellington-Insel und dem Festland, trägt ebenfalls seinen Namen.  
 
-<img src="https://commons.wikimedia.org/wiki/File:Charles_Messier.jpg#/media/Datei:Charles_Messier.jpg"/>
+<p><a href="https://commons.wikimedia.org/wiki/File:Charles_Messier.jpg#/media/Datei:Charles_Messier.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Charles_Messier.jpg" alt="Charles Messier.jpg"></a><br>Von Ansiaume (1729—1786) - Stoyan R. et al. Atlas of the Messier Objects: Highlights of the Deep Sky. — Cambridge: Cambridge Univercity Press, 2008. — P. 15., Gemeinfrei, <a href="https://commons.wikimedia.org/w/index.php?curid=1386610">Link</a></p>
+
