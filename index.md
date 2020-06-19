@@ -2,7 +2,7 @@
 
 Charles Messier (1730 - 1817) war ein französischer Astronom. Er wirkte unter anderem als Astronom der französischen Marine und später im Bureau des Longitudes und gilt als Entdecker von 20 Kometen. Darüber hinaus schuf er mit dem Messier-Katalog ein später nach ihm benanntes Verzeichnis von astronomischen Objekten wie Galaxien, Sternenhaufen und Nebel. 
 
-## Auszug aus den Entdeckten Objekten
+## Auszug aus den entdeckten Objekten
 
 * Kugelsternhaufen
   * M3
@@ -13,3 +13,8 @@ Charles Messier (1730 - 1817) war ein französischer Astronom. Er wirkte unter a
   * M33
   * M81
   * M82
+
+Zitate sind nicht überliefert dafür gibt es aber Ehrungen:
+
+> Der Mondkrater Messier sowie der Asteroid (7359) Messier sind nach ihm benannt.
+> Der Messier-Kanal, eine Meerenge im Süden Chiles zwischen der riesigen Wellington-Insel und dem Festland, trägt ebenfalls seinen Namen.  
